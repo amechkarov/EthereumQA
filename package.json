@@ -1,0 +1,19 @@
+{
+  "name": "qa-assuring-ethereum-zhhfds",
+  "version": "1.0.0",
+  "description": "Create a test based on Hardhat for testing contract deployment and interaction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.13"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
